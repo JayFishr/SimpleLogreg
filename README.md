@@ -1,4 +1,4 @@
-👋 Simple Login and registration everything seems to work except history.push is only changing the url but not rendering the component. Havent figured out how to fix it yet.👋
+👋 Simple Login and registration 👋
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
